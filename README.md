@@ -1,6 +1,18 @@
-# TalentBridge
+<h1 align="center" style="font-weight: bold;">TalentBridge 👷‍♂️</h1>
 
-**TalentBridge** is a database project developed using Oracle APEX and SQL, designed to streamline and manage talent acquisition processes.
+<p align="center">
+<a href="#preview">GUI Preview</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#module">Project Modules</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#techs">Technologies Used</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#license">License</a>
+ <span>&nbsp; • &nbsp;</span>
+<a href="#teams">Team Members</a>
+</p>
+
+<p align="center"><b>TalentBridge</b> is a database project developed using Oracle APEX and SQL, designed to streamline and manage talent acquisition processes.</p>
 
 <h2 id="preview">🖥️ GUI Preview</h2>
 
@@ -48,8 +60,46 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <h2 id="teams"> 👥 Team Members</h2>
 
-- **[Your Name]** - Project Lead
-- **[Contributor 1]** - Database Design & Implementation
-- **[Contributor 2]** - Oracle APEX Development
-- **[Contributor 3]** - SQL Queries & Optimization
+<p>Special thanks to all contributors of this project.</p>
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/Some0ne11">
+<img src="https://avatars.githubusercontent.com/u/122141550?v=4" width="100px;" alt="Profile Picture"/><br>
+<sub>
+<b>Ammar Danial</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/arqriz">
+<img src="https://avatars.githubusercontent.com/u/187925967?v=4" width="100px;" alt="Profile Picture"/><br>
+<sub>
+<b>Abdul Arif</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="#">
+<img src="#" width="100px;" alt="Profile Picture"/><br>
+<sub>
+<b>Hurin Damia</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="#">
+<img src="#" width="100px;" alt="Profile Picture"/><br>
+<sub>
+<b>Ahmad Adib</b>
+</sub>
+</a>
+</td>
+
+</tr>
+</table>
 
